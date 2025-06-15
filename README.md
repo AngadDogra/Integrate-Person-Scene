@@ -47,7 +47,8 @@ No server-side processing is performed—images are created offline (using the d
 Replace or update images (before.jpg, background.jpg, combined.jpg) in your Django project’s media folder.
 Run your Django server (or deploy on PythonAnywhere).
 Browse the main page to view the compositing results and reference workflow.
-References
+
+# References
 Pérez, P., Gangnet, M., & Blake, A. (2003). Poisson image editing. ACM Transactions on Graphics.
 Adobe, DxO, and CG Cookie online guides for professional compositing.
 [See full references in project documentation.]
